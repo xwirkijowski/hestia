@@ -1,0 +1,14 @@
+build/
+dist/
+out/
+logs/
+
+.next/
+
+.env
+.env*
+.env.*
+
+.idea/
+.run/
+node_modules/
